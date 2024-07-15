@@ -1,3 +1,5 @@
+# Alterado para fins de desafio
+
 from typing import Annotated, Optional
 from pydantic import Field, PositiveFloat
 from workout_api.categorias.schemas import CategoriaIn

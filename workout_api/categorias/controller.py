@@ -1,3 +1,6 @@
+# Alterado para fins de desafio
+
+
 from uuid import uuid4
 from fastapi import APIRouter, Body, HTTPException, status
 from pydantic import UUID4

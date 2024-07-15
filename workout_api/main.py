@@ -1,3 +1,5 @@
+# Alterado para fins de desafio
+
 from fastapi import FastAPI
 from workout_api.routers import api_router
 
